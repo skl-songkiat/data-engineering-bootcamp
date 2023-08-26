@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eco-crow-395008",
+  "private_key_id": "fe5971e59a19861b42aecece781904e91334fa87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCd3wjnp6EhzbAY\nLRHJQ2nr1OSOu7Kgl9CcwzTExJwtE07bcrJtastQj3b8RGucExLnh+S5fyQu/U7+\nJuIL+Oy54G9vai/Bo3pUaXMa0vluZnzQjoxpOLr4h75URS/6+OKWax9xg99x2w4s\n2i/UdIOjKR5NtJB1vhzbDXRWEVVlTZ7bpAJiPT4876JWPrte1F/DALNWPa+L9Lyu\ns4z9pBb2yNi3iTKQd611XeGfA7OKCkRAkrF0bIVsX+ZJs2/EuZudwJwDYnNec4bS\nzRmApF63e5Fe/qm2t/5RqBYgx2oVPbQxUkr9PTW20f0QtR7pAeegPWbXv+Nsu6EJ\nt/DdpVnvAgMBAAECggEAL0WhvPwM27pjiFm2gbWV+e/9oF/D1SKgbNBm9KSKv1SQ\nwFVP6EOaLb1Hu7IhJtLvTjT64DCZ/RgMlz29YihfeikiNRJuymTRNIV+2gFifxRh\nO3HzyW4bTmAXNdSh0VzFPJVHDQ6X0dfuHrAWsl9RK4IceNggiaErsswMkdkO4Q4s\nnyf3WX2dKD8eHN/iTX7w9YqORBYNxntXBoRRRwoWp+Euzows6jnCPWi0KBfycbuB\nU+CrzVA0UGdlJabYs27hPXjhk5rRMjYUuygkZ1wrMo4U483QIZkKoL7uuWQJ5zOY\nyPyrEFOl1nYHgAWJwMNUSnq7e+tFoHs/+eDKyTeagQKBgQDNWnQlTRUPJ3MpQ3+v\nGPMTlp4ubRGJfBJcV1l8DBB366nmr8ebvztBqllCiwGh4ZOs17gLlW86O+Z0abv5\nHc9crkp9byFVEAsjhpt7JHf/c+ZLmHb7wTCSQiSoqjBQ5j22me1bW7KV5GwWEJTS\nKnn+c75Co0YfEezhm7Baq3LyWQKBgQDEzqsHv2k4FkPuHYWOIiwKeKCrVXGhJml0\nCpolqvvosoUHUtuibCBkz8fCB25dFwJliFhoiFETPk5gEUcc+a33zt9u4RyiJ317\nmQuIPeaf/C7L2yiN7XpSXT4jXKwi84vV+neQY0ESsmmvnBTms0xBE0D33mSqbImn\ndsk4xBBVhwKBgB7UWKGM+/9lbc2hG5c/CKdFMoRHzZ01alBAsOeFrCdE0yIV+8Kv\nKAdIutPZqKoUAqatUC01BxjYC1Yo1Zal2g7Q/8/rEjcCDJoNyGPparaIQOfSgPJ0\n44Thtz03J7/NgTBb1Z2km6ATRgLeBGm1BNGlsMeyWYGqoESSqhxCpyQpAoGAQBAa\nAjKfeH9e62K2t7aN6Xasrjjo/RD44KoW1U4cI/oAbYreLbfOr6InHxS2Kx0zTYOd\na6F76qysbH8TS+5GX9T6TCiA3pPGN/Zwl4+2w7seLIORZum3mJn7gR1IdzQZ/7RB\nOUHly8VBu8Ut1I7msoQm8Mh2sjcUc+upwo2n138CgYA0xw0ACDbir/77t/E49jhZ\nVShtjls5JX8ip6uLlyohchX+pUQnDH7tDYEhTLYelf51RnpSyVgbY9BupwO/wxx0\nhV7EpskvuR153qR6K+df11FRYQ/oPNdxZ3nGq/ctMrLR/oGN0RklKhD32ZDQjKhy\nIOuIxYXyGc7HmEbUVSzZWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb2-loading-files-to-gcs@eco-crow-395008.iam.gserviceaccount.com",
+  "client_id": "100226959608064387988",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb2-loading-files-to-gcs%40eco-crow-395008.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

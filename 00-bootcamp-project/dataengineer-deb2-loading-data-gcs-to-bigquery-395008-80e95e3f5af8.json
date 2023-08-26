@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eco-crow-395008",
+  "private_key_id": "80e95e3f5af848849b2df20666bdc87275ba9b18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPmoe3hp21oTqw\nY0wBOeEL9Ad4VCDpXsWeVhI/0nX71A+DVSY58E3aVCl7P5FNj5eKjf91lIRQqyHj\np8Eo7oksEBCWGNNY0u/+pW63KwgnxhBFtQq4hmoI6eBKyyKJozXTj9Hq+RIweduz\nufyU4v3p0h6dXgQ8btzib2nzt7kkXwVRdnooC5Ph+tI/csUVGhmMGcOFFC2UDVnn\nG9scZ6AM5M576iCnEjhcpy5iNiqQDW53GdcWxZ83tTT302Trz/NLBRNH/phTDJv/\nOD4hdoKpWrjbkFohdJ9rKgzl33CnGFM86qfWnbBw+y7lhMUN+mEfbAthFNGmLwFh\ndMKkj2sTAgMBAAECggEAF2AxCUCGdYhypqB8/bkErBHi3XEA8QYTfmFMAL+z5T0w\nL1DhKFj0izGQJ36K3+QxOLqwbw7gBIKgeD/QB3SEdt+q3nEWgG6P82kGmb1QrRnS\nLzx+uTROsDOVZmvlDFZs8yYYiZADX6NOUmMOG72gwDlBP+WcLdSAg/FDnturDyXS\nnNPDs9r2OzXq5drjr8x78hmRHXfi0z6LV1mZALCaSCUPaTDImtb6+Wn6/9zP56CH\nHvD9KRKNliGaN0IRqjYXPnE4NoLKydQ0jtLuvH48PSLBixqGk4nuvfzX0n46tLcO\nFF/sOGu52Ea59pXY7K3Zc48jzD4HMvGF7xUv5npRwQKBgQDry7Q10CCZw/sjt30r\n7VvXpOi8f9O53VPwUjlqMddPTK6NFDfcM81iPFJoVB9boxORdLOdp9d68tLuF19D\nrMRxov4S9Q93tKFHYmKpSggZp7mI1zvuH8LZre0kShfKwjtTCcEZNljZ93GSqA/r\nrhB/A0M0WA2icu+uSBNNabS0kQKBgQDhZGs4H0FVKi6OyOLVoiD5oc1lyOxZhGWx\ncV/H3cPDjb9BiP5RdgkUvgdT8tnr19hw5+/+BCjoyL1aY8kjYy3HBVTTgw0OR7m4\nR74Bp2hfISoUaEj8HN/4wvcAFT6ZJBpC8WMf1SnoceK2fZ5+801rjhbGxltpWwxS\nIUBf2TOnYwKBgEfBrg3SUJl6sqqj5EvB5/kwDkOPAvfFCw5Pd3mBwWw4gcYdKQKy\nIQaMJOfq8cAJWKMjSKXptgGMc/RQ2ITXxtBuMbPDL/nV1l7K6gtqpBxqlmO2XF6S\n+9ESxOAOTD8/7J3QkhsCFvf9/WoMCwxF5G9Cpuj/Auc04wu+k2EzkfKBAoGANfsm\n8roJm6wOmoPiT+gUnbTyzH3inU3oTScqGWQzjpJUTA3TWw85/Y3Fk4WGS8XWQLRL\n9jpo0dfCAfQEKEWIoTHVrxKj/deP02LbTuoZRS9cNKcFU9xWh+2p2os8AtFyuLW3\nV9hlwRYFhk9vtlfvIuNU8SZwnjsAKGtuT4ZlqKECgYAf+vxm9vKTpm/rgbAnhnaG\nGi0LV/N8SQ/I3BJrNWc6hoFbwf/CRqJ1G0q7AUWcuN4e3BIEi6VHK1auI5malbnH\n5eOvgnzyRx6LfKB2FSOMf9SUfaQBiNn4O1Zw6d4YGI0xjsDRc3OPTxS4f7JI8zuh\nQ7E1Tddeb/yKhBTzr7HoVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb2-loading-gcs-to-bigquery@eco-crow-395008.iam.gserviceaccount.com",
+  "client_id": "110790441087317871559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb2-loading-gcs-to-bigquery%40eco-crow-395008.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
