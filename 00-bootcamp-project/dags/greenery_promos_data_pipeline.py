@@ -12,7 +12,7 @@ from google.oauth2 import service_account
 
 BUSINESS_DOMAIN = "greenery"
 LOCATION = "asia-southeast1"
-PROJECT_ID = "eco-crow-395008"
+PROJECT_ID = "learn-gcs-can-deleted"
 DAGS_FOLDER = "/opt/airflow/dags"
 DATA = "promos"
 
@@ -38,7 +38,7 @@ def _extract_data():
 
 
 def _load_data_to_gcs(ds):
-    keyfile_gcs = f"{DAGS_FOLDER}/dataengineer-deb2-loading-files-to-gcs-395008-fe5971e59a19.json"
+    keyfile_gcs = f"{DAGS_FOLDER}/learn-gcs-can-deleted-eeb4b2ceecaa.json"
     service_account_info_gcs = json.load(open(keyfile_gcs))
     credentials_gcs = service_account.Credentials.from_service_account_info(
         service_account_info_gcs
@@ -59,7 +59,7 @@ def _load_data_to_gcs(ds):
 
 
 def _load_data_from_gcs_to_bigquery():
-    keyfile_bigquery = f"{DAGS_FOLDER}/dataengineer-deb2-loading-data-gcs-to-bigquery-395008-80e95e3f5af8.json"
+    keyfile_bigquery = f"{DAGS_FOLDER}/learn-gcs-can-deleted-eeb4b2ceecaa.json"
     service_account_info_bigquery = json.load(open(keyfile_bigquery))
     credentials_bigquery = service_account.Credentials.from_service_account_info(
         service_account_info_bigquery

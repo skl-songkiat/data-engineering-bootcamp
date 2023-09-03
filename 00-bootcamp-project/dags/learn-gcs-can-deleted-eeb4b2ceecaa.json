@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learn-gcs-can-deleted",
+  "private_key_id": "eeb4b2ceecaa372dbae89fbb76c2f6e96ad857b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDiSVGKs9tI5aY\nNwtE8U/pSseXxNp85XQSTczR4uebP78rf8G1P+tkEaQhVedybX0NRAguqCjmsvkg\nFr6JhIreL7oRIaoEoIcqtx0zSWovRAUIw9iQONWDRQs6gLe2felOdqPCGiaw7W+H\n6gPkwE5MKaepz01oufvKhDf4mb/pXMAWavMqfbS+nPvtjjmn+wo37Ifgf4tqaIW4\nznAtGpyeT0YpJPIytkrKGodSWPN0AK6/quIPZne6lcMTd4ltLLeq6n8dmjNLTFNH\nx9KqY/pnI/q07mf5uP705Pa7WbZDsxrJmyPvEsSu6Li2i6u0/1+ThFMkQ925edfn\n1fw1W3g9AgMBAAECggEAJ+LbdB86dbhbOUyNI3CYDO4gncBdkzmY/jzZiXzgIsaT\nn/NtF6Rkx2Jj2Rr1Xd2gsyqMArxxr3GVqOqKznF3hFA3A9Saolv+hoOY1MPmgaK9\n5iZREEZPo3nbiwEDuJmhlExWJjuAZfnhFNfzGF/z+MxMc7KiRzkc+BgVdMQkJh1W\niemQPlHKX2j+UV6seipTSRSw5p0fw9rGr/WAbB3kn3TR+wtNJxztQANKUb0LJruT\nzg4x1gS+So1OO6R6YRsBlCC+z1D9Ulz5j0wo1mw66OHWAtNUvVlmcUFxCUnYVodo\nV/HyG3c5MVade92KGCFeFobMPRSdjDwtD/gSBjTirwKBgQDnxQ8wFmgiJy+pHQwg\nUOb/Bt+R9ZmEjWZJp1mlCOTriuipTnEIz16fjZjzzegAMOGDn7R7UplrstcMHpFh\nU6Zw38isad/7QiLpIwZX3EGsIqjHaHTXobbU4YKp8pP5qOWL7lGDu5PblzPD0uYN\noZ9FRYMjZEU+0kK711NhIu4y+wKBgQDX+ldYV2dWV+ayvKZ8Z0+vjbJCZ4XhKIsJ\nrm46Ppns1axsY7i5V/dUlgd96ooTlMyuaUa+vpcFNRbQ57rPtDxHhMLXvyxPFcQb\nD37if4YnhqNW+xBWDJ09rouDfW5WBfV1XKMLGGcHL1JlxqAc3uz4yRmKI06Ci6+c\nl9ZMeibcJwKBgH45SCg8S8It7TsA4tXGuccyixgG1fDmwUpjpeLHkUTmhgeO/Oh7\nZ2El0KMXBL714Bu7IqP3PC73Wz7yduK2l/LpLXUYxC8mubSWqqG3Bt0kkx7muJun\nKteNaYf84LIbVch7plFEGyaAlmSTu065MvCbBuyDc2LfSBDdGD/Ssj95AoGBAJON\nnrrmC917dEtMg1meo1xGrDCd1WN8dXEJ0JjOSA779C6g+oT1yi3pyfiGkgrKsAPA\nPOr3/uk52fqjNofMlRovY4ZOP5FQR4hNT9yiTx8V5uX35LNFLvADHaGZwhXXQFkM\nDv/3jfvkoqCR0LWov7FAgshTUsHxeOq8+VWKZp4lAoGBANVgHVmsHQoVSayBt+Co\nH+90dkiYPnUsNV9Kk4A7FMfh59Cba2XKKvH5CRS9iuQWaNuoPj2WIz25Oz0jCjS6\nDpZ/d8TVn0qmeBLq5zLVt0uWqbU021m8WDA/RrjM2Or5+EF/ln8m6tVFSCz2rmPY\nNxaQH1VK131zZ3hidejoQM1A\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataengineer-learn-gcs@learn-gcs-can-deleted.iam.gserviceaccount.com",
+  "client_id": "117925001491533249029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataengineer-learn-gcs%40learn-gcs-can-deleted.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
