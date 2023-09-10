@@ -1,0 +1,21 @@
+networkrail:
+  target: dbt_sklsongkiat
+
+  outputs:
+    dbt_sklsongkiat:
+      type: bigquery
+      method: service-account
+      project: learn-gcs-can-deleted
+      dataset: dbt_sklsongkiat
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/07-end-to-end-project/dbt/deb-end2end-project-61d0b31ee8af.json
+      location: asia-southeast1
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: learn-gcs-can-deleted
+      dataset: networkrail
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/07-end-to-end-project/dbt/deb-end2end-project-61d0b31ee8af.json
+      location: asia-southeast1
